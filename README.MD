@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-	<img src=".github/demonstration.gif" alt="GamePlay Image 1" height="650" width="300"/>
+	<img src=".github/demonstration.gif" alt="Twitch clone" height="650" width="300"/>
 </div>
 
 
